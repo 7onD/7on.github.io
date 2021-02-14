@@ -31224,15 +31224,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
-  margin: -90px 1018px 0 71px;
+  margin: -90px 1018px 33px 71px;
 }
 
 .u-header .u-btn-1 {
   padding: 0;
-}
-
-.u-header .u-login-1 {
-  margin: -19px -55px 28px auto;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
@@ -31253,16 +31249,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     width: auto;
-    margin-top: -83px;
-    margin-right: 652px;
-    margin-left: 194px;
-  }
-
-  .u-header .u-login-1 {
-    height: 25px;
-    margin-top: -26px;
-    margin-right: 23px;
-    margin-bottom: 36px;
+    margin: -83px 652px 35px 194px;
   }
 }
 @media (max-width: 991px) {
@@ -31282,15 +31269,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-top: -63px;
-    margin-right: 556px;
-    margin-left: 104px;
-  }
-
-  .u-header .u-login-1 {
-    margin-top: -44px;
-    margin-right: 95px;
-    margin-bottom: 34px;
+    margin: -63px 556px 14px 104px;
   }
 }
 @media (max-width: 767px) {
@@ -31299,7 +31278,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: 18px;
+    margin-top: 25px;
     margin-left: 34px;
   }
 
@@ -31308,15 +31287,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-top: -57px;
-    margin-right: 366px;
-    margin-left: 117px;
-  }
-
-  .u-header .u-login-1 {
-    margin-top: -37px;
-    margin-right: 14px;
-    margin-bottom: 61px;
+    margin: -57px 366px 45px 117px;
   }
 }
 @media (max-width: 575px) {
@@ -31335,37 +31306,131 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-right: 209px;
+    margin-bottom: 49px;
     margin-left: 70px;
-  }
-
-  .u-header .u-login-1 {
-    margin-top: -23px;
-    margin-right: -20px;
-    margin-bottom: 47px;
   }
 }
 .u-footer {
   background-image: none;
-  min-height: 142px;
+}
+
+.u-footer .u-sheet-1 {
+  min-height: 107px;
 }
 
 .u-footer .u-text-1 {
-  margin: 49px 442px;
+  margin: 31px 941px 0 73px;
+}
+
+.u-footer .u-btn-1 {
+  padding: 0;
+}
+
+.u-footer .u-text-2 {
+  margin: -45px 639px 0 387px;
+}
+
+.u-footer .u-btn-2 {
+  padding: 0;
+}
+
+.u-footer .u-text-3 {
+  margin: -45px 369px 0 674px;
+}
+
+.u-footer .u-btn-3 {
+  padding: 0;
+}
+
+.u-footer .u-text-4 {
+  margin: -45px 91px 31px 948px;
+}
+
+.u-footer .u-btn-4 {
+  padding: 0;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
-    width: 417px;
-    margin-left: calc(((100% - 1140px) / 2) + 362px);
-    margin-right: calc(((100% - 1140px) / 2) + 362px);
+    margin-right: 814px;
+    margin-left: 60px;
+  }
+
+  .u-footer .u-text-2 {
+    margin-right: 539px;
+    margin-left: 319px;
+  }
+
+  .u-footer .u-text-3 {
+    margin-right: 304px;
+    margin-left: 574px;
+  }
+
+  .u-footer .u-text-4 {
+    margin-right: 75px;
+    margin-left: 839px;
   }
 }
+@media (max-width: 991px) {
+  .u-footer .u-text-1 {
+    margin-right: 594px;
+    margin-left: 46px;
+  }
 
+  .u-footer .u-text-2 {
+    margin-right: 429px;
+    margin-left: 244px;
+  }
 
+  .u-footer .u-text-3 {
+    margin-right: 233px;
+    margin-left: 464px;
+  }
+
+  .u-footer .u-text-4 {
+    margin-right: 57px;
+    margin-left: 619px;
+  }
+}
+@media (max-width: 767px) {
+  .u-footer .u-text-1 {
+    margin-right: 414px;
+    margin-left: 35px;
+  }
+
+  .u-footer .u-text-2 {
+    margin-right: 339px;
+    margin-left: 183px;
+  }
+
+  .u-footer .u-text-3 {
+    margin-right: 175px;
+    margin-left: 374px;
+  }
+
+  .u-footer .u-text-4 {
+    margin-right: 43px;
+    margin-left: 439px;
+  }
+}
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
-    width: 340px;
-    margin-left: calc(((100% - 1140px) / 2) + 400px);
-    margin-right: calc(((100% - 1140px) / 2) + 400px);
+    margin-right: 214px;
+    margin-left: 22px;
+  }
+
+  .u-footer .u-text-2 {
+    margin-right: 226px;
+    margin-left: 115px;
+  }
+
+  .u-footer .u-text-3 {
+    margin-right: 110px;
+    margin-left: 243px;
+  }
+
+  .u-footer .u-text-4 {
+    margin-right: 27px;
+    margin-left: 239px;
   }
 }
 
