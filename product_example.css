@@ -1,0 +1,119 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 767px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 303px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 17px 456px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 17px 370px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: linear-gradient(to right, #478ac9, #2cccc4);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.9375rem;
+  letter-spacing: 1px;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: -218px 89px 60px auto;
+  padding: 31px 63px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 448px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -946px;
+    margin-right: 356px;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 270px;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 60px;
+    margin-right: 100px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 487px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -985px;
+    margin-right: 246px;
+    margin-left: 210px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 210px;
+    margin-right: 210px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 929px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -1401px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 300px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 615px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -912px;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 400px;
+  }
+}
