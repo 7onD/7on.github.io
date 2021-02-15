@@ -9,11 +9,13 @@
 .u-section-1 .u-text-1 {
   font-size: 6rem;
   font-weight: 700;
-  margin: 242px 364px 0 365px;
+  width: 485px;
+  margin: 242px auto 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 30px 356px 0;
+  width: 428px;
+  margin: 30px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -21,27 +23,22 @@
   text-transform: uppercase;
   font-weight: 700;
   border-style: none;
-  margin: 40px auto 60px 513px;
+  margin: 40px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
-    width: 426px;
+    width: 492px;
     margin-top: 312px;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .u-section-1 .u-text-2 {
     width: 330px;
     margin-top: 28px;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .u-section-1 .u-btn-1 {
     margin-top: 19px;
-    margin-left: auto;
   }
 }
 
@@ -81,8 +78,6 @@
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
     margin-top: 205px;
-    margin-left: 0;
-    margin-right: 0;
     width: 340px;
   }
 
@@ -106,12 +101,14 @@
 .u-section-2 .u-text-1 {
   font-size: 6rem;
   font-weight: 700;
-  margin: 214px 283px 0;
+  width: 612px;
+  margin: 214px auto 0;
 }
 
 .u-section-2 .u-text-2 {
   font-size: 1.25rem;
-  margin: 57px 228px 0;
+  width: 684px;
+  margin: 57px auto 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -119,7 +116,7 @@
   text-transform: uppercase;
   font-weight: 700;
   border-style: none;
-  margin: 40px auto 60px 513px;
+  margin: 40px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -128,17 +125,12 @@
   }
 
   .u-section-2 .u-text-1 {
-    width: 574px;
+    width: 629px;
     margin-top: 212px;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .u-section-2 .u-text-2 {
-    width: 684px;
     margin-top: 36px;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .u-section-2 .u-btn-1 {
@@ -158,9 +150,6 @@
 
   .u-section-2 .u-text-2 {
     margin-top: 11px;
-    margin-left: 18px;
-    margin-right: 18px;
-    width: auto;
   }
 
   .u-section-2 .u-btn-1 {
@@ -177,15 +166,12 @@
   .u-section-2 .u-text-1 {
     font-size: 4.5rem;
     margin-top: 152px;
-    margin-left: 0;
-    margin-right: 0;
-    width: auto;
+    width: 540px;
   }
 
   .u-section-2 .u-text-2 {
     margin-top: 15px;
-    margin-left: 0;
-    margin-right: 0;
+    width: 540px;
   }
 
   .u-section-2 .u-btn-1 {
@@ -201,11 +187,13 @@
   .u-section-2 .u-text-1 {
     font-size: 3rem;
     margin-top: 99px;
+    width: 340px;
   }
 
   .u-section-2 .u-text-2 {
     font-size: 1.125rem;
     margin-top: 25px;
+    width: 340px;
   }
 
   .u-section-2 .u-btn-1 {
