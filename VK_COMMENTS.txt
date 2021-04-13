@@ -1,0 +1,28 @@
+ПЕРЕД ПОДВАЛОМ!
+
+https://vk.com/dev.php?aid=7823686&method=Comments
+--------------РЕДАКТИРОВАНИЕ------------------
+1. Все засунуть в div и добавить style="background: grey";
+2. В <div id="vk_comments"></div> засунуть style="padding: 10px;"
+3. И VK.Widgets.Comments("vk_comments", {limit: 5, attach: "*", height: 500});
+
+
+
+----------------------ПРИМЕР--------------------
+<!-- VK COMMENTS -->
+    <div style="background: grey;">
+      <script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
+    <script type="text/javascript">
+      VK.init({apiId: 7823686, onlyWidgets: true});
+    </script>
+    <div id="vk_comments" style="
+    margin-right: 40px;
+    margin-left: 370px;
+
+    ">
+    </div>
+    <script type="text/javascript" class="vk_comments">
+    VK.Widgets.Comments("vk_comments", {limit: 5, attach: "*", height: 500, width:1150});
+    </script>
+    </div>
+<!-- VK COMMENTS CODE END -->
