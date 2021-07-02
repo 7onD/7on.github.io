@@ -5,7 +5,18 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 3rem;
-  margin: 149px 390px 0 35px;
+  margin: 149px 390px 0 140px;
+}
+
+.u-sheet-1 .email {
+  
+}
+
+.u-section-1 .tg {
+  font-weight: 300;
+  font-size: 1.6rem;
+  margin: 0px 0px 0 90px;
+  margin-left: 120px;
 }
 
 .u-section-1 .u-image-1 {
@@ -93,8 +104,17 @@
   .u-section-1 .u-text-1 {
     width: auto;
     margin-top: 38px;
-    margin-left: 4px;
+    margin-left: 55px;
     margin-right: 4px;
+  }
+
+  .u-section-1 .tg {
+    width: auto;
+    margin-top: 1px;
+    margin-left: 54px;
+    margin-right: 3px;
+    font-size: 1.5rem;
+    margin-bottom: 50px;
   }
 
   .u-section-1 .u-image-1 {
@@ -124,6 +144,11 @@
 
   .u-section-1 .u-text-1 {
     margin-left: 13px;
+    margin-right: 13px;
+  }
+
+  .u-section-1 .tg {
+    margin-left: 40px;
     margin-right: 13px;
   }
 
