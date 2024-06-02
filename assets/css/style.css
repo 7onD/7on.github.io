@@ -56,6 +56,9 @@ h1, h2, h3, h4, h5, h6{
 	color: var(--tg-theme-text-color);
 	text-decoration: none;
 	transition: color 0.2s linear;
+	padding: 20px; 
+	border: 2px solid black ; 
+	border-radius: 25%;
 }
 .nav__link:hover{
 	color: var(--tg-theme-accent-text-color);
