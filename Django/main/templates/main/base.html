@@ -1,0 +1,37 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="{%static 'assets/css/style.css'%}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<script src="https://telegram.org/js/telegram-web-app.js"></script>
+	<title>{% block title %} Главная {% endblock %}</title>
+</head>
+<body>
+<header class='header'>
+	<div class="container">
+		<div class="header__inner">
+			<div class="header__logo">
+				<img class= 'logo' src="{%static 'assets/images/logo.jpg'%}" alt="">
+				NewsLetter
+			</div>
+
+			<nav class='nav'>
+				<a class='nav__link' href="{%url 'home'%}">Новости</a>
+				<a class='nav__link' href="">Темы</a>
+				<a class='nav__link' href="{%url 'settings'%}">Настройки</a>
+			</nav>
+		</div>
+	</div>
+</header>
+<div class="intro">
+	<div class="container">
+		<h1></h1>
+	</div>
+</div>
+</body>
+</html>
